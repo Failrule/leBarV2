@@ -33,8 +33,23 @@ public class Inicio extends AppCompatActivity {
         cancion = (Button)findViewById(R.id.musicaBtn);
         chat = (Button)findViewById(R.id.chatBtn);
 
-        Picasso.get().load("http://lebar.myscriptcase.com/api/alfa/BBC.png").into(logo);
-        establecimiento.setText("Bienvenido");
+
+
+       // Picasso.get().load("http://lebar.myscriptcase.com/api/alfa/BBC.png").into(logo);
+
+        String newString;
+        if (savedInstanceState == null) {
+            Bundle extras = getIntent().getExtras();
+            if(extras == null) {
+                newString= null;
+            } else {
+                newString= extras.getString("Establecimiento");
+            }
+        } else {
+            newString= (String) savedInstanceState.getSerializable("Establecimiento");
+        }
+
+        establecimiento.setText(newString);
 
 
         comida.setOnClickListener(new View.OnClickListener() {
