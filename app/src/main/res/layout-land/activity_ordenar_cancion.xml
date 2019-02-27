@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/fondo"
+    android:orientation="horizontal"
+    tools:context="co.lebar.lebarv2.ordenar_cancion">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/ic_musica_f"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+            <EditText
+                android:id="@+id/etCancion"
+                android:layout_width="300dp"
+                android:textSize="20dp"
+                android:inputType="textCapCharacters"
+                android:layout_height="wrap_content"
+                android:hint="Canción"/>
+
+
+
+            <EditText
+                android:id="@+id/etArtista"
+                android:layout_width="300dp"
+                android:textSize="20dp"
+                android:inputType="textCapCharacters"
+                android:layout_height="wrap_content"
+                android:hint="Artista"/>
+
+
+
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/btnPedir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:background="@mipmap/ic_btn_pedir_f" />
+
+</LinearLayout>

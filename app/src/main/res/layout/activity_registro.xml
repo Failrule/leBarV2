@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_marginTop="20dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginBottom="20dp"
+    android:orientation="vertical"
+    tools:context="co.lebar.lebarv2.registro">
+
+
+
+    <ImageView
+        android:layout_marginBottom="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/ic_launcher_foreground"/>
+
+
+    <EditText
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:id="@+id/etCorreo"
+        android:textSize="35dp"
+
+        android:hint="@string/correo"/>
+
+            <EditText
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etReg_Contrasenia"
+                android:inputType="textPassword"
+                android:textSize="35dp"
+                android:hint="@string/reg_contrasenia"/>
+
+    <EditText
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/etReg_Conf_contrasenia"
+        android:inputType="textPassword"
+        android:textSize="35dp"
+        android:hint="@string/reg_conf_contrasenia"/>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+
+        >
+
+        <Button
+
+            android:id="@+id/listoBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:layout_gravity="center"
+            android:text="@string/listo"
+            android:textSize="40dp"
+             />
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
+
+

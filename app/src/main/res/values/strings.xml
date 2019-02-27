@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">leBar</string>
+    <string name="ingreso">Entrar</string>
+    <string name="ingresesunumerodecel">Nº de celular</string>
+    <string name="bienvenido">¿Qué deseas?</string>
+    <string name="cancion">Canción</string>
+    <string name="bebidas">Bebidas</string>
+    <string name="comidas">Comidas</string>
+    <string name="ordenar">Ordenar</string>
+    <string name="Artista">Artista</string>
+    <string name="Pedir">Pedir!</string>
+    <string name="chat">Chat</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="correo">Correo</string>
+    <string name="celular">Celular</string>
+    <string name="fecha_nac">Fecha de nacimiento</string>
+    <string name="sexo">Sexo</string>
+    <string name="preferencia_sexo">Me interesan</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="hombres">Hombres</string>
+    <string name="mujeres">Mujeres</string>
+    <string name="listo">Listo!</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="reg_contrasenia">Una contraseña</string>
+    <string name="reg_conf_contrasenia">Confírmala</string>
+    <string name="usuario">Usuario</string>
+</resources>    
