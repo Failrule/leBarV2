@@ -31,7 +31,7 @@ public class leDoor extends AppCompatActivity {
 
             if (texto.equals("user@lebar.com")) {//si el texto en files coincide con la BD (c)
                 Toast.makeText(this, "Hola " + texto, Toast.LENGTH_LONG).show();
-                startActivity(new Intent(leDoor.this, lectorqr.class));
+                startActivity(new Intent(leDoor.this, Inicio.class));
                 fin.close();
                 finish();
             } else {

@@ -95,7 +95,7 @@ public class ingreso extends AppCompatActivity {
                             Log.e("Login", "Error al escribir fichero a memoria interna");
                         }
 
-                        startActivity(new Intent(ingreso.this, lectorqr.class));
+                        startActivity(new Intent(ingreso.this, Inicio.class));
 
                         finish();
                         }else{

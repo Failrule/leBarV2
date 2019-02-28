@@ -37,19 +37,9 @@ public class Inicio extends AppCompatActivity {
 
        // Picasso.get().load("http://lebar.myscriptcase.com/api/alfa/BBC.png").into(logo);
 
-        String newString;
-        if (savedInstanceState == null) {
-            Bundle extras = getIntent().getExtras();
-            if(extras == null) {
-                newString= null;
-            } else {
-                newString= extras.getString("Establecimiento");
-            }
-        } else {
-            newString= (String) savedInstanceState.getSerializable("Establecimiento");
-        }
 
-        establecimiento.setText(newString);
+
+        establecimiento.setText("Bar");
 
 
         comida.setOnClickListener(new View.OnClickListener() {
