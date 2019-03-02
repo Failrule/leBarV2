@@ -27,7 +27,7 @@ public class Inicio extends AppCompatActivity {
         calligrapher.setFont(this,"Hamburg.TTF",true);
 
         establecimiento = (TextView) findViewById(R.id.establecimiento);
-        logo =(ImageView)findViewById(R.id.logo);
+       // logo =(ImageView)findViewById(R.id.logo);
         comida = (Button) findViewById(R.id.comidaBtn);
         bebida = (Button)findViewById(R.id.bebidaBtn);
         cancion = (Button)findViewById(R.id.musicaBtn);
