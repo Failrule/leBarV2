@@ -33,14 +33,14 @@
                 android:layout_height="wrap_content"
 
                 android:layout_marginTop="10dp"
-                android:text="Estás en"
-                android:textSize="30dp" />
+                android:text="@string/estas_en"
+                android:textSize="30sp" />
 
             <TextView
                 android:id="@+id/establecimiento"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="40dp" />
+                android:textSize="40sp" />
 
 
 
@@ -92,6 +92,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/bienvenido"
-        android:textSize="70dp" />
+        android:textSize="70sp" />
     </LinearLayout>
 

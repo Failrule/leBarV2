@@ -18,20 +18,19 @@
     <EditText
         android:id="@+id/etCancion"
         android:layout_width="300dp"
-        android:textSize="40dp"
-        android:inputType="textCapCharacters"
         android:layout_height="wrap_content"
-        android:hint="Canción"/>
+        android:hint="@string/cancion"
+        android:inputType="textCapCharacters"
+        android:textSize="40sp" />
 
 
-        <EditText
+    <EditText
         android:id="@+id/etArtista"
         android:layout_width="300dp"
-        android:textSize="40dp"
-        android:inputType="textCapCharacters"
         android:layout_height="wrap_content"
-        android:hint="Artista"/>
-
+        android:hint="@string/Artista"
+        android:inputType="textCapCharacters"
+        android:textSize="40sp" />
 
 
     <Button
@@ -39,8 +38,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:textSize="35dp"
         android:background="@null"
-        android:text="Listo!"/>
+        android:text="@string/listo"
+        android:textSize="35sp" />
 
 </LinearLayout>

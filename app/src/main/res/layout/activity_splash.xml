@@ -12,7 +12,8 @@
         android:id="@+id/splashiv"
         android:layout_width="170dp"
         android:layout_height="170dp"
-        android:background="@mipmap/ic_launcher_foreground"/>
+        android:background="@mipmap/ic_launcher_foreground"
+        android:contentDescription="@string/app_name" />
 
 
 </LinearLayout>

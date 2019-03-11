@@ -12,7 +12,8 @@
     <ImageView
         android:layout_width="300px"
         android:layout_height="300px"
-        android:background="@mipmap/ic_launcher_foreground"/>
+        android:background="@mipmap/ic_launcher_foreground"
+        android:contentDescription="@string/app_name" />
 
     <LinearLayout
         android:layout_marginTop="30dp"
@@ -29,7 +30,7 @@
             android:id="@+id/ingresarBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="60dp"
+            android:textSize="60sp"
             android:background="@null"
             android:text="@string/ingresar"/>
 
@@ -40,7 +41,7 @@
             android:layout_height="35dp"
             android:background="@null"
             android:text="@string/registrarse"
-            android:textSize="20dp"/>
+            android:textSize="20sp"/>
 
 
     </LinearLayout>
