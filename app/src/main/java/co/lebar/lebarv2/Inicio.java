@@ -63,6 +63,14 @@ public class Inicio extends AppCompatActivity {
             }
         });
 
+        bebida.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Inicio.this,bebidas.class));
+            }
+        });
+
+
 
 
         cancion.setOnClickListener(new View.OnClickListener() {

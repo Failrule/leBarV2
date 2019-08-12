@@ -5,4 +5,673 @@
     <color name="gris">#ababab</color>
     <color name="blanco">#FFFFFF</color>
     <color name="colorAccent">#50c3c7</color>
+
+
+    <item name="Black" type="color">#000000</item>
+    <item name="Gunmetal" type="color">#2C3539</item>
+    <item name="Midnight" type="color">#2B1B17</item>
+    <item name="Charcoal" type="color">#34282C</item>
+    <item name="Dark_Slate_Grey" type="color">#25383C</item>
+    <item name="Oil" type="color">#3B3131</item>
+    <item name="Black_Cat" type="color">#413839</item>
+    <item name="Black_Eel" type="color">#463E3F</item>
+    <item name="Black_Cow" type="color">#4C4646</item>
+    <item name="Gray_Wolf" type="color">#504A4B</item>
+    <item name="Vampire_Gray" type="color">#565051</item>
+    <item name="Gray_Dolphin" type="color">#5C5858</item>
+    <item name="Carbon_Gray" type="color">#625D5D</item>
+    <item name="Ash_Gray" type="color">#666362</item>
+    <item name="Cloudy_Gray" type="color">#6D6968</item>
+    <item name="Smokey_Gray" type="color">#726E6D</item>
+    <item name="Gray" type="color">#736F6E</item>
+    <item name="Granite" type="color">#837E7C</item>
+    <item name="Battleship_Gray" type="color">#848482</item>
+    <item name="Gray_Cloud" type="color">#B6B6B4</item>
+    <item name="Gray_Goose" type="color">#D1D0CE</item>
+    <item name="Platinum" type="color">#E5E4E2</item>
+    <item name="Metallic_Silver" type="color">#BCC6CC</item>
+    <item name="Blue_Gray" type="color">#98AFC7</item>
+    <item name="Light_Slate_Gray" type="color">#6D7B8D</item>
+    <item name="Slate_Gray" type="color">#657383</item>
+    <item name="Jet_Gray" type="color">#616D7E</item>
+    <item name="Mist_Blue" type="color">#646D7E</item>
+    <item name="Marble_Blue" type="color">#566D7E</item>
+    <item name="Slate_Blue" type="color">#737CA1</item>
+    <item name="Steel_Blue" type="color">#4863A0</item>
+    <item name="Blue_Jay" type="color">#2B547E</item>
+    <item name="Dark_Slate_Blue" type="color">#2B3856</item>
+    <item name="Midnight_Blue" type="color">#151B54</item>
+    <item name="Navy_Blue" type="color">#000080</item>
+    <item name="Blue_Whale" type="color">#342D7E</item>
+    <item name="Lapis_Blue" type="color">#15317E</item>
+    <item name="Cornflower_Blue" type="color">#151B8D</item>
+    <item name="Earth_Blue" type="color">#0000A0</item>
+    <item name="Cobalt_Blue" type="color">#0020C2</item>
+    <item name="Blueberry_Blue" type="color">#0041C2</item>
+    <item name="Sapphire_Blue" type="color">#2554C7</item>
+    <item name="Blue_Eyes" type="color">#1569C7</item>
+    <item name="Royal_Blue" type="color">#2B60DE</item>
+    <item name="Blue_Orchid" type="color">#1F45FC</item>
+    <item name="Blue_Lotus" type="color">#6960EC</item>
+    <item name="Light_Slate_Blue" type="color">#736AFF</item>
+    <item name="Silk_Blue" type="color">#488AC7</item>
+    <item name="Blue_Ivy" type="color">#3090C7</item>
+    <item name="Blue_Koi" type="color">#659EC7</item>
+    <item name="Columbia_Blue" type="color">#87AFC7</item>
+    <item name="Baby_Blue" type="color">#95B9C7</item>
+    <item name="Light_Steel_Blue" type="color">#728FCE</item>
+    <item name="Ocean_Blue" type="color">#2B65EC</item>
+    <item name="Blue_Ribbon" type="color">#306EFF</item>
+    <item name="Blue_Dress" type="color">#157DEC</item>
+    <item name="Dodger_Blue" type="color">#1589FF</item>
+    <item name="Butterfly_Blue" type="color">#38ACEC</item>
+    <item name="Iceberg" type="color">#56A5EC</item>
+    <item name="Crystal_Blue" type="color">#5CB3FF</item>
+    <item name="Deep_Sky_Blue" type="color">#3BB9FF</item>
+    <item name="Denim_Blue" type="color">#79BAEC</item>
+    <item name="Light_Sky_Blue" type="color">#82CAFA</item>
+    <item name="Sky_Blue" type="color">#82CAFF</item>
+    <item name="Jeans_Blue" type="color">#A0CFEC</item>
+    <item name="Blue_Angel" type="color">#B7CEEC</item>
+    <item name="Pastel_Blue" type="color">#B4CFEC</item>
+    <item name="Sea_Blue" type="color">#C2DFFF</item>
+    <item name="Powder_Blue" type="color">#C6DEFF</item>
+    <item name="Coral_Blue" type="color">#AFDCEC</item>
+    <item name="Light_Blue" type="color">#ADDFFF</item>
+    <item name="Robin_Egg_Blue" type="color">#BDEDFF</item>
+    <item name="Pale_Blue_Lily" type="color">#CFECEC</item>
+    <item name="Light_Cyan" type="color">#E0FFFF</item>
+    <item name="Water" type="color">#EBF4FA</item>
+    <item name="AliceBlue" type="color">#F0F8FF</item>
+    <item name="Azure" type="color">#F0FFFF</item>
+    <item name="Light_Slate" type="color">#CCFFFF</item>
+    <item name="Light_Aquamarine" type="color">#93FFE8</item>
+    <item name="Electric_Blue" type="color">#9AFEFF</item>
+    <item name="Aquamarine" type="color">#7FFFD4</item>
+    <item name="Cyan_or_Aqua" type="color">#00FFFF</item>
+    <item name="Tron_Blue" type="color">#7DFDFE</item>
+    <item name="Blue_Zircon" type="color">#57FEFF</item>
+    <item name="Blue_Lagoon" type="color">#8EEBEC</item>
+    <item name="Celeste" type="color">#50EBEC</item>
+    <item name="Blue_Diamond" type="color">#4EE2EC</item>
+    <item name="Tiffany_Blue" type="color">#81D8D0</item>
+    <item name="Cyan_Opaque" type="color">#92C7C7</item>
+    <item name="Blue_Hosta" type="color">#77BFC7</item>
+    <item name="Northern_Lights_Blue" type="color">#78C7C7</item>
+    <item name="Medium_Turquoise" type="color">#48CCCD</item>
+    <item name="Turquoise" type="color">#43C6DB</item>
+    <item name="Jellyfish" type="color">#46C7C7</item>
+    <item name="Mascaw_Blue_Green" type="color">#43BFC7</item>
+    <item name="Light_Sea_Green" type="color">#3EA99F</item>
+    <item name="Dark_Turquoise" type="color">#3B9C9C</item>
+    <item name="Sea_Turtle_Green" type="color">#438D80</item>
+    <item name="Medium_Aquamarine" type="color">#348781</item>
+    <item name="Greenish_Blue" type="color">#307D7E</item>
+    <item name="Grayish_Turquoise" type="color">#5E7D7E</item>
+    <item name="Beetle_Green" type="color">#4C787E</item>
+    <item name="Teal" type="color">#008080</item>
+    <item name="Sea_Green" type="color">#4E8975</item>
+    <item name="Camouflage_Green" type="color">#78866B</item>
+    <item name="Hazel_Green" type="color">#617C58</item>
+    <item name="Venom_Green" type="color">#728C00</item>
+    <item name="Fern_Green" type="color">#667C26</item>
+    <item name="Dark_Forrest_Green" type="color">#254117</item>
+    <item name="Medium_Sea_Green" type="color">#306754</item>
+    <item name="Medium_Forest_Green" type="color">#347235</item>
+    <item name="Seaweed_Green" type="color">#437C17</item>
+    <item name="Pine_Green" type="color">#387C44</item>
+    <item name="Jungle_Green" type="color">#347C2C</item>
+    <item name="Shamrock_Green" type="color">#347C17</item>
+    <item name="Medium_Spring_Green" type="color">#348017</item>
+    <item name="Forest_Green" type="color">#4E9258</item>
+    <item name="Green_Onion" type="color">#6AA121</item>
+    <item name="Spring_Green" type="color">#4AA02C</item>
+    <item name="Lime_Green" type="color">#41A317</item>
+    <item name="Clover_Green" type="color">#3EA055</item>
+    <item name="Green_Snake" type="color">#6CBB3C</item>
+    <item name="Alien_Green" type="color">#6CC417</item>
+    <item name="Green_Apple" type="color">#4CC417</item>
+    <item name="Yellow_Green" type="color">#52D017</item>
+    <item name="Kelly_Green" type="color">#4CC552</item>
+    <item name="Zombie_Green" type="color">#54C571</item>
+    <item name="Frog_Green" type="color">#99C68E</item>
+    <item name="Green_Peas" type="color">#89C35C</item>
+    <item name="Dollar_Bill_Green" type="color">#85BB65</item>
+    <item name="Dark_Sea_Green" type="color">#8BB381</item>
+    <item name="Iguana_Green" type="color">#9CB071</item>
+    <item name="Avocado_Green" type="color">#B2C248</item>
+    <item name="Pistachio_Green" type="color">#9DC209</item>
+    <item name="Salad_Green" type="color">#A1C935</item>
+    <item name="Hummingbird_Green" type="color">#7FE817</item>
+    <item name="Nebula_Green" type="color">#59E817</item>
+    <item name="Stoplight_Go_Green" type="color">#57E964</item>
+    <item name="Algae_Green" type="color">#64E986</item>
+    <item name="Jade_Green" type="color">#5EFB6E</item>
+    <item name="Green" type="color">#00FF00</item>
+    <item name="Emerald_Green" type="color">#5FFB17</item>
+    <item name="Lawn_Green" type="color">#87F717</item>
+    <item name="Chartreuse" type="color">#8AFB17</item>
+    <item name="Dragon_Green" type="color">#6AFB92</item>
+    <item name="Mint_green" type="color">#98FF98</item>
+    <item name="Green_Thumb" type="color">#B5EAAA</item>
+    <item name="Light_Jade" type="color">#C3FDB8</item>
+    <item name="Tea_Green" type="color">#CCFB5D</item>
+    <item name="Green_Yellow" type="color">#B1FB17</item>
+    <item name="Slime_Green" type="color">#BCE954</item>
+    <item name="Goldenrod" type="color">#EDDA74</item>
+    <item name="Harvest_Gold" type="color">#EDE275</item>
+    <item name="Sun_Yellow" type="color">#FFE87C</item>
+    <item name="Yellow" type="color">#FFFF00</item>
+    <item name="Corn_Yellow" type="color">#FFF380</item>
+    <item name="Parchment" type="color">#FFFFC2</item>
+    <item name="Cream" type="color">#FFFFCC</item>
+    <item name="Lemon_Chiffon" type="color">#FFF8C6</item>
+    <item name="Cornsilk" type="color">#FFF8DC</item>
+    <item name="Beige" type="color">#F5F5DC</item>
+    <item name="AntiqueWhite" type="color">#FAEBD7</item>
+    <item name="BlanchedAlmond" type="color">#FFEBCD</item>
+    <item name="Vanilla" type="color">#F3E5AB</item>
+    <item name="Tan_Brown" type="color">#ECE5B6</item>
+    <item name="Peach" type="color">#FFE5B4</item>
+    <item name="Mustard" type="color">#FFDB58</item>
+    <item name="Rubber_Ducky_Yellow" type="color">#FFD801</item>
+    <item name="Bright_Gold" type="color">#FDD017</item>
+    <item name="Golden_brown" type="color">#EAC117</item>
+    <item name="Macaroni_and_Cheese" type="color">#F2BB66</item>
+    <item name="Saffron" type="color">#FBB917</item>
+    <item name="Beer" type="color">#FBB117</item>
+    <item name="Cantaloupe" type="color">#FFA62F</item>
+    <item name="Bee_Yellow" type="color">#E9AB17</item>
+    <item name="Brown_Sugar" type="color">#E2A76F</item>
+    <item name="BurlyWood" type="color">#DEB887</item>
+    <item name="Deep_Peach" type="color">#FFCBA4</item>
+    <item name="Ginger_Brown" type="color">#C9BE62</item>
+    <item name="School_Bus_Yellow" type="color">#E8A317</item>
+    <item name="Sandy_Brown" type="color">#EE9A4D</item>
+    <item name="Fall_Leaf_Brown" type="color">#C8B560</item>
+    <item name="Gold" type="color">#D4A017</item>
+    <item name="Sand" type="color">#C2B280</item>
+    <item name="Cookie_Brown" type="color">#C7A317</item>
+    <item name="Caramel" type="color">#C68E17</item>
+    <item name="Brass" type="color">#B5A642</item>
+    <item name="Khaki" type="color">#ADA96E</item>
+    <item name="Camel_brown" type="color">#C19A6B</item>
+    <item name="Bronze" type="color">#CD7F32</item>
+    <item name="Tiger_Orange" type="color">#C88141</item>
+    <item name="Cinnamon" type="color">#C58917</item>
+    <item name="Dark_Goldenrod" type="color">#AF7817</item>
+    <item name="Copper" type="color">#B87333</item>
+    <item name="Wood" type="color">#966F33</item>
+    <item name="Oak_Brown" type="color">#806517</item>
+    <item name="Moccasin" type="color">#827839</item>
+    <item name="Army_Brown" type="color">#827B60</item>
+    <item name="Sandstone" type="color">#786D5F</item>
+    <item name="Mocha" type="color">#493D26</item>
+    <item name="Taupe" type="color">#483C32</item>
+    <item name="Coffee" type="color">#6F4E37</item>
+    <item name="Brown_Bear" type="color">#835C3B</item>
+    <item name="Red_Dirt" type="color">#7F5217</item>
+    <item name="Sepia" type="color">#7F462C</item>
+    <item name="Orange_Salmon" type="color">#C47451</item>
+    <item name="Rust" type="color">#C36241</item>
+    <item name="Red_Fox" type="color">#C35817</item>
+    <item name="Chocolate" type="color">#C85A17</item>
+    <item name="Sedona" type="color">#CC6600</item>
+    <item name="Papaya_Orange" type="color">#E56717</item>
+    <item name="Halloween_Orange" type="color">#E66C2C</item>
+    <item name="Pumpkin_Orange" type="color">#F87217</item>
+    <item name="Construction_Cone_Orange" type="color">#F87431</item>
+    <item name="Sunrise_Orange" type="color">#E67451</item>
+    <item name="Mango_Orange" type="color">#FF8040</item>
+    <item name="Dark_Orange" type="color">#F88017</item>
+    <item name="Coral" type="color">#FF7F50</item>
+    <item name="Basket_Ball_Orange" type="color">#F88158</item>
+    <item name="Light_Salmon" type="color">#F9966B</item>
+    <item name="Tangerine" type="color">#E78A61</item>
+    <item name="Dark_Salmon" type="color">#E18B6B</item>
+    <item name="Light_Coral" type="color">#E77471</item>
+    <item name="Bean_Red" type="color">#F75D59</item>
+    <item name="Valentine_Red" type="color">#E55451</item>
+    <item name="Shocking_Orange" type="color">#E55B3C</item>
+    <item name="Red" type="color">#FF0000</item>
+    <item name="Scarlet" type="color">#FF2400</item>
+    <item name="Ruby_Red" type="color">#F62217</item>
+    <item name="Ferrari_Red" type="color">#F70D1A</item>
+    <item name="Fire_Engine_Red" type="color">#F62817</item>
+    <item name="Lava_Red" type="color">#E42217</item>
+    <item name="Love_Red" type="color">#E41B17</item>
+    <item name="Grapefruit" type="color">#DC381F</item>
+    <item name="Chestnut_Red" type="color">#C34A2C</item>
+    <item name="Cherry_Red" type="color">#C24641</item>
+    <item name="Mahogany" type="color">#C04000</item>
+    <item name="Chilli_Pepper" type="color">#C11B17</item>
+    <item name="Cranberry" type="color">#9F000F</item>
+    <item name="Red_Wine" type="color">#990012</item>
+    <item name="Burgundy" type="color">#8C001A</item>
+    <item name="Blood_Red" type="color">#7E3517</item>
+    <item name="Sienna" type="color">#8A4117</item>
+    <item name="Sangria" type="color">#7E3817</item>
+    <item name="Firebrick" type="color">#800517</item>
+    <item name="Maroon" type="color">#810541</item>
+    <item name="Plum_Pie" type="color">#7D0541</item>
+    <item name="Velvet_Maroon" type="color">#7E354D</item>
+    <item name="Plum_Velvet" type="color">#7D0552</item>
+    <item name="Rosy_Finch" type="color">#7F4E52</item>
+    <item name="Puce" type="color">#7F5A58</item>
+    <item name="Dull_Purple" type="color">#7F525D</item>
+    <item name="Rosy_Brown" type="color">#B38481</item>
+    <item name="Khaki_Rose" type="color">#C5908E</item>
+    <item name="Pink_Bow" type="color">#C48189</item>
+    <item name="Lipstick_Pink" type="color">#C48793</item>
+    <item name="Rose" type="color">#E8ADAA</item>
+    <item name="Desert_Sand" type="color">#EDC9AF</item>
+    <item name="Pig_Pink" type="color">#FDD7E4</item>
+    <item name="Cotton_Candy" type="color">#FCDFFF</item>
+    <item name="Pink_Bubblegum" type="color">#FFDFDD</item>
+    <item name="Misty_Rose" type="color">#FBBBB9</item>
+    <item name="Pink" type="color">#FAAFBE</item>
+    <item name="Light_Pink" type="color">#FAAFBA</item>
+    <item name="Flamingo_Pink" type="color">#F9A7B0</item>
+    <item name="Pink_Rose" type="color">#E7A1B0</item>
+    <item name="Pink_Daisy" type="color">#E799A3</item>
+    <item name="Cadillac_Pink" type="color">#E38AAE</item>
+    <item name="Blush_Red" type="color">#E56E94</item>
+    <item name="Hot_Pink" type="color">#F660AB</item>
+    <item name="Watermelon_Pink" type="color">#FC6C85</item>
+    <item name="Violet_Red" type="color">#F6358A</item>
+    <item name="Deep_Pink" type="color">#F52887</item>
+    <item name="Pink_Cupcake" type="color">#E45E9D</item>
+    <item name="Pink_Lemonade" type="color">#E4287C</item>
+    <item name="Neon_Pink" type="color">#F535AA</item>
+    <item name="Magenta" type="color">#FF00FF</item>
+    <item name="Dimorphotheca_Magenta" type="color">#E3319D</item>
+    <item name="Bright_Neon_Pink" type="color">#F433FF</item>
+    <item name="Pale_Violet_Red" type="color">#D16587</item>
+    <item name="Tulip_Pink" type="color">#C25A7C</item>
+    <item name="Medium_Violet_Red" type="color">#CA226B</item>
+    <item name="Rogue_Pink" type="color">#C12869</item>
+    <item name="Burnt_Pink" type="color">#C12267</item>
+    <item name="Bashful_Pink" type="color">#C25283</item>
+    <item name="Carnation_Pink" type="color">#C12283</item>
+    <item name="Plum" type="color">#B93B8F</item>
+    <item name="Viola_Purple" type="color">#7E587E</item>
+    <item name="Purple_Iris" type="color">#571B7E</item>
+    <item name="Plum_Purple" type="color">#583759</item>
+    <item name="Indigo" type="color">#4B0082</item>
+    <item name="Purple_Monster" type="color">#461B7E</item>
+    <item name="Purple_Haze" type="color">#4E387E</item>
+    <item name="Eggplant" type="color">#614051</item>
+    <item name="Grape" type="color">#5E5A80</item>
+    <item name="Purple_Jam" type="color">#6A287E</item>
+    <item name="Dark_Orchid" type="color">#7D1B7E</item>
+    <item name="Purple_Flower" type="color">#A74AC7</item>
+    <item name="Medium_Orchid" type="color">#B048B5</item>
+    <item name="Purple_Amethyst" type="color">#6C2DC7</item>
+    <item name="Dark_Violet" type="color">#842DCE</item>
+    <item name="Violet" type="color">#8D38C9</item>
+    <item name="Purple_Sage_Bush" type="color">#7A5DC7</item>
+    <item name="Lovely_Purple" type="color">#7F38EC</item>
+    <item name="Purple" type="color">#8E35EF</item>
+    <item name="Aztec_Purple" type="color">#893BFF</item>
+    <item name="Medium_Purple" type="color">#8467D7</item>
+    <item name="Jasmine_Purple" type="color">#A23BEC</item>
+    <item name="Purple_Daffodil" type="color">#B041FF</item>
+    <item name="Tyrian_Purple" type="color">#C45AEC</item>
+    <item name="Crocus_Purple" type="color">#9172EC</item>
+    <item name="Purple_Mimosa" type="color">#9E7BFF</item>
+    <item name="Heliotrope_Purple" type="color">#D462FF</item>
+    <item name="Crimson" type="color">#E238EC</item>
+    <item name="Purple_Dragon" type="color">#C38EC7</item>
+    <item name="Lilac" type="color">#C8A2C8</item>
+    <item name="Blush_Pink" type="color">#E6A9EC</item>
+    <item name="Mauve" type="color">#E0B0FF</item>
+    <item name="Wisteria_Purple" type="color">#C6AEC7</item>
+    <item name="Blossom_Pink" type="color">#F9B7FF</item>
+    <item name="Thistle" type="color">#D2B9D3</item>
+    <item name="Periwinkle" type="color">#E9CFEC</item>
+    <item name="Lavender_Pinocchio" type="color">#EBDDE2</item>
+    <item name="Lavender" type="color">#E3E4FA</item>
+    <item name="Pearl" type="color">#FDEEF4</item>
+    <item name="SeaShell" type="color">#FFF5EE</item>
+    <item name="Milk_White" type="color">#FEFCFF</item>
+    <item name="White" type="color">#FFFFFF</item>
+
+
+    <integer-array name="initial_colors">
+
+        <item>@color/Black</item>
+        <item>@color/Gunmetal</item>
+        <item>@color/Midnight</item>
+        <item>@color/Charcoal</item>
+        <item>@color/Dark_Slate_Grey</item>
+        <item>@color/Oil</item>
+        <item>@color/Black_Cat</item>
+        <item>@color/Black_Eel</item>
+        <item>@color/Black_Cow</item>
+        <item>@color/Gray_Wolf</item>
+        <item>@color/Vampire_Gray</item>
+        <item>@color/Gray_Dolphin</item>
+        <item>@color/Carbon_Gray</item>
+        <item>@color/Ash_Gray</item>
+        <item>@color/Cloudy_Gray</item>
+        <item>@color/Smokey_Gray</item>
+        <item>@color/Gray</item>
+        <item>@color/Granite</item>
+        <item>@color/Battleship_Gray</item>
+        <item>@color/Gray_Cloud</item>
+        <item>@color/Gray_Goose</item>
+        <item>@color/Platinum</item>
+        <item>@color/Metallic_Silver</item>
+        <item>@color/Blue_Gray</item>
+        <item>@color/Light_Slate_Gray</item>
+        <item>@color/Slate_Gray</item>
+        <item>@color/Jet_Gray</item>
+        <item>@color/Mist_Blue</item>
+        <item>@color/Marble_Blue</item>
+        <item>@color/Slate_Blue</item>
+        <item>@color/Steel_Blue</item>
+        <item>@color/Blue_Jay</item>
+        <item>@color/Dark_Slate_Blue</item>
+        <item>@color/Midnight_Blue</item>
+        <item>@color/Navy_Blue</item>
+        <item>@color/Blue_Whale</item>
+        <item>@color/Lapis_Blue</item>
+        <item>@color/Cornflower_Blue</item>
+        <item>@color/Earth_Blue</item>
+        <item>@color/Cobalt_Blue</item>
+        <item>@color/Blueberry_Blue</item>
+        <item>@color/Sapphire_Blue</item>
+        <item>@color/Blue_Eyes</item>
+        <item>@color/Royal_Blue</item>
+        <item>@color/Blue_Orchid</item>
+        <item>@color/Blue_Lotus</item>
+        <item>@color/Light_Slate_Blue</item>
+        <item>@color/Silk_Blue</item>
+        <item>@color/Blue_Ivy</item>
+        <item>@color/Blue_Koi</item>
+        <item>@color/Columbia_Blue</item>
+        <item>@color/Baby_Blue</item>
+        <item>@color/Light_Steel_Blue</item>
+        <item>@color/Ocean_Blue</item>
+        <item>@color/Blue_Ribbon</item>
+        <item>@color/Blue_Dress</item>
+        <item>@color/Dodger_Blue</item>
+        <item>@color/Butterfly_Blue</item>
+        <item>@color/Iceberg</item>
+        <item>@color/Crystal_Blue</item>
+        <item>@color/Deep_Sky_Blue</item>
+        <item>@color/Denim_Blue</item>
+        <item>@color/Light_Sky_Blue</item>
+        <item>@color/Sky_Blue</item>
+        <item>@color/Jeans_Blue</item>
+        <item>@color/Blue_Angel</item>
+        <item>@color/Pastel_Blue</item>
+        <item>@color/Sea_Blue</item>
+        <item>@color/Powder_Blue</item>
+        <item>@color/Coral_Blue</item>
+        <item>@color/Light_Blue</item>
+        <item>@color/Robin_Egg_Blue</item>
+        <item>@color/Pale_Blue_Lily</item>
+        <item>@color/Light_Cyan</item>
+        <item>@color/Water</item>
+        <item>@color/AliceBlue</item>
+        <item>@color/Azure</item>
+        <item>@color/Light_Slate</item>
+        <item>@color/Light_Aquamarine</item>
+        <item>@color/Electric_Blue</item>
+        <item>@color/Aquamarine</item>
+        <item>@color/Cyan_or_Aqua</item>
+        <item>@color/Tron_Blue</item>
+        <item>@color/Blue_Zircon</item>
+        <item>@color/Blue_Lagoon</item>
+        <item>@color/Celeste</item>
+        <item>@color/Blue_Diamond</item>
+        <item>@color/Tiffany_Blue</item>
+        <item>@color/Cyan_Opaque</item>
+        <item>@color/Blue_Hosta</item>
+        <item>@color/Northern_Lights_Blue</item>
+        <item>@color/Medium_Turquoise</item>
+        <item>@color/Turquoise</item>
+        <item>@color/Jellyfish</item>
+        <item>@color/Mascaw_Blue_Green</item>
+        <item>@color/Light_Sea_Green</item>
+        <item>@color/Dark_Turquoise</item>
+        <item>@color/Sea_Turtle_Green</item>
+        <item>@color/Medium_Aquamarine</item>
+        <item>@color/Greenish_Blue</item>
+        <item>@color/Grayish_Turquoise</item>
+        <item>@color/Beetle_Green</item>
+        <item>@color/Teal</item>
+        <item>@color/Sea_Green</item>
+        <item>@color/Camouflage_Green</item>
+        <item>@color/Hazel_Green</item>
+        <item>@color/Venom_Green</item>
+        <item>@color/Fern_Green</item>
+        <item>@color/Dark_Forrest_Green</item>
+        <item>@color/Medium_Sea_Green</item>
+        <item>@color/Medium_Forest_Green</item>
+        <item>@color/Seaweed_Green</item>
+        <item>@color/Pine_Green</item>
+        <item>@color/Jungle_Green</item>
+        <item>@color/Shamrock_Green</item>
+        <item>@color/Medium_Spring_Green</item>
+        <item>@color/Forest_Green</item>
+        <item>@color/Green_Onion</item>
+        <item>@color/Spring_Green</item>
+        <item>@color/Lime_Green</item>
+        <item>@color/Clover_Green</item>
+        <item>@color/Green_Snake</item>
+        <item>@color/Alien_Green</item>
+        <item>@color/Green_Apple</item>
+        <item>@color/Yellow_Green</item>
+        <item>@color/Kelly_Green</item>
+        <item>@color/Zombie_Green</item>
+        <item>@color/Frog_Green</item>
+        <item>@color/Green_Peas</item>
+        <item>@color/Dollar_Bill_Green</item>
+        <item>@color/Dark_Sea_Green</item>
+        <item>@color/Iguana_Green</item>
+        <item>@color/Avocado_Green</item>
+        <item>@color/Pistachio_Green</item>
+        <item>@color/Salad_Green</item>
+        <item>@color/Hummingbird_Green</item>
+        <item>@color/Nebula_Green</item>
+        <item>@color/Stoplight_Go_Green</item>
+        <item>@color/Algae_Green</item>
+        <item>@color/Jade_Green</item>
+        <item>@color/Green</item>
+        <item>@color/Emerald_Green</item>
+        <item>@color/Lawn_Green</item>
+        <item>@color/Chartreuse</item>
+        <item>@color/Dragon_Green</item>
+        <item>@color/Mint_green</item>
+        <item>@color/Green_Thumb</item>
+        <item>@color/Light_Jade</item>
+        <item>@color/Tea_Green</item>
+        <item>@color/Green_Yellow</item>
+        <item>@color/Slime_Green</item>
+        <item>@color/Goldenrod</item>
+        <item>@color/Harvest_Gold</item>
+        <item>@color/Sun_Yellow</item>
+        <item>@color/Yellow</item>
+        <item>@color/Corn_Yellow</item>
+        <item>@color/Parchment</item>
+        <item>@color/Cream</item>
+        <item>@color/Lemon_Chiffon</item>
+        <item>@color/Cornsilk</item>
+        <item>@color/Beige</item>
+        <item>@color/AntiqueWhite</item>
+        <item>@color/BlanchedAlmond</item>
+        <item>@color/Vanilla</item>
+        <item>@color/Tan_Brown</item>
+        <item>@color/Peach</item>
+        <item>@color/Mustard</item>
+        <item>@color/Rubber_Ducky_Yellow</item>
+        <item>@color/Bright_Gold</item>
+        <item>@color/Golden_brown</item>
+        <item>@color/Macaroni_and_Cheese</item>
+        <item>@color/Saffron</item>
+        <item>@color/Beer</item>
+        <item>@color/Cantaloupe</item>
+        <item>@color/Bee_Yellow</item>
+        <item>@color/Brown_Sugar</item>
+        <item>@color/BurlyWood</item>
+        <item>@color/Deep_Peach</item>
+        <item>@color/Ginger_Brown</item>
+        <item>@color/School_Bus_Yellow</item>
+        <item>@color/Sandy_Brown</item>
+        <item>@color/Fall_Leaf_Brown</item>
+        <item>@color/Gold</item>
+        <item>@color/Sand</item>
+        <item>@color/Cookie_Brown</item>
+        <item>@color/Caramel</item>
+        <item>@color/Brass</item>
+        <item>@color/Khaki</item>
+        <item>@color/Camel_brown</item>
+        <item>@color/Bronze</item>
+        <item>@color/Tiger_Orange</item>
+        <item>@color/Cinnamon</item>
+        <item>@color/Dark_Goldenrod</item>
+        <item>@color/Copper</item>
+        <item>@color/Wood</item>
+        <item>@color/Oak_Brown</item>
+        <item>@color/Moccasin</item>
+        <item>@color/Army_Brown</item>
+        <item>@color/Sandstone</item>
+        <item>@color/Mocha</item>
+        <item>@color/Taupe</item>
+        <item>@color/Coffee</item>
+        <item>@color/Brown_Bear</item>
+        <item>@color/Red_Dirt</item>
+        <item>@color/Sepia</item>
+        <item>@color/Orange_Salmon</item>
+        <item>@color/Rust</item>
+        <item>@color/Red_Fox</item>
+        <item>@color/Chocolate</item>
+        <item>@color/Sedona</item>
+        <item>@color/Papaya_Orange</item>
+        <item>@color/Halloween_Orange</item>
+        <item>@color/Pumpkin_Orange</item>
+        <item>@color/Construction_Cone_Orange</item>
+        <item>@color/Sunrise_Orange</item>
+        <item>@color/Mango_Orange</item>
+        <item>@color/Dark_Orange</item>
+        <item>@color/Coral</item>
+        <item>@color/Basket_Ball_Orange</item>
+        <item>@color/Light_Salmon</item>
+        <item>@color/Tangerine</item>
+        <item>@color/Dark_Salmon</item>
+        <item>@color/Light_Coral</item>
+        <item>@color/Bean_Red</item>
+        <item>@color/Valentine_Red</item>
+        <item>@color/Shocking_Orange</item>
+        <item>@color/Red</item>
+        <item>@color/Scarlet</item>
+        <item>@color/Ruby_Red</item>
+        <item>@color/Ferrari_Red</item>
+        <item>@color/Fire_Engine_Red</item>
+        <item>@color/Lava_Red</item>
+        <item>@color/Love_Red</item>
+        <item>@color/Grapefruit</item>
+        <item>@color/Chestnut_Red</item>
+        <item>@color/Cherry_Red</item>
+        <item>@color/Mahogany</item>
+        <item>@color/Chilli_Pepper</item>
+        <item>@color/Cranberry</item>
+        <item>@color/Red_Wine</item>
+        <item>@color/Burgundy</item>
+        <item>@color/Blood_Red</item>
+        <item>@color/Sienna</item>
+        <item>@color/Sangria</item>
+        <item>@color/Firebrick</item>
+        <item>@color/Maroon</item>
+        <item>@color/Plum_Pie</item>
+        <item>@color/Velvet_Maroon</item>
+        <item>@color/Plum_Velvet</item>
+        <item>@color/Rosy_Finch</item>
+        <item>@color/Puce</item>
+        <item>@color/Dull_Purple</item>
+        <item>@color/Rosy_Brown</item>
+        <item>@color/Khaki_Rose</item>
+        <item>@color/Pink_Bow</item>
+        <item>@color/Lipstick_Pink</item>
+        <item>@color/Rose</item>
+        <item>@color/Desert_Sand</item>
+        <item>@color/Pig_Pink</item>
+        <item>@color/Cotton_Candy</item>
+        <item>@color/Pink_Bubblegum</item>
+        <item>@color/Misty_Rose</item>
+        <item>@color/Pink</item>
+        <item>@color/Light_Pink</item>
+        <item>@color/Flamingo_Pink</item>
+        <item>@color/Pink_Rose</item>
+        <item>@color/Pink_Daisy</item>
+        <item>@color/Cadillac_Pink</item>
+        <item>@color/Blush_Red</item>
+        <item>@color/Hot_Pink</item>
+        <item>@color/Watermelon_Pink</item>
+        <item>@color/Violet_Red</item>
+        <item>@color/Deep_Pink</item>
+        <item>@color/Pink_Cupcake</item>
+        <item>@color/Pink_Lemonade</item>
+        <item>@color/Neon_Pink</item>
+        <item>@color/Magenta</item>
+        <item>@color/Dimorphotheca_Magenta</item>
+        <item>@color/Bright_Neon_Pink</item>
+        <item>@color/Pale_Violet_Red</item>
+        <item>@color/Tulip_Pink</item>
+        <item>@color/Medium_Violet_Red</item>
+        <item>@color/Rogue_Pink</item>
+        <item>@color/Burnt_Pink</item>
+        <item>@color/Bashful_Pink</item>
+        <item>@color/Carnation_Pink</item>
+        <item>@color/Plum</item>
+        <item>@color/Viola_Purple</item>
+        <item>@color/Purple_Iris</item>
+        <item>@color/Plum_Purple</item>
+        <item>@color/Indigo</item>
+        <item>@color/Purple_Monster</item>
+        <item>@color/Purple_Haze</item>
+        <item>@color/Eggplant</item>
+        <item>@color/Grape</item>
+        <item>@color/Purple_Jam</item>
+        <item>@color/Dark_Orchid</item>
+        <item>@color/Purple_Flower</item>
+        <item>@color/Medium_Orchid</item>
+        <item>@color/Purple_Amethyst</item>
+        <item>@color/Dark_Violet</item>
+        <item>@color/Violet</item>
+        <item>@color/Purple_Sage_Bush</item>
+        <item>@color/Lovely_Purple</item>
+        <item>@color/Purple</item>
+        <item>@color/Aztec_Purple</item>
+        <item>@color/Medium_Purple</item>
+        <item>@color/Jasmine_Purple</item>
+        <item>@color/Purple_Daffodil</item>
+        <item>@color/Tyrian_Purple</item>
+        <item>@color/Crocus_Purple</item>
+        <item>@color/Purple_Mimosa</item>
+        <item>@color/Heliotrope_Purple</item>
+        <item>@color/Crimson</item>
+        <item>@color/Purple_Dragon</item>
+        <item>@color/Lilac</item>
+        <item>@color/Blush_Pink</item>
+        <item>@color/Mauve</item>
+        <item>@color/Wisteria_Purple</item>
+        <item>@color/Blossom_Pink</item>
+        <item>@color/Thistle</item>
+        <item>@color/Periwinkle</item>
+        <item>@color/Lavender_Pinocchio</item>
+        <item>@color/Lavender</item>
+        <item>@color/Pearl</item>
+        <item>@color/SeaShell</item>
+        <item>@color/Milk_White</item>
+        <item>@color/White</item>
+
+
+    </integer-array>
+
+
+
+
 </resources>

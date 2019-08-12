@@ -29,4 +29,63 @@
     <string name="reg_conf_contrasenia">Confírmala</string>
     <string name="usuario">Usuario</string>
     <string name="estas_en">Estás en</string>
+
+    <string-array name="names_array">
+
+        <item>EDGARDO</item>
+        <item>EDITH</item>
+        <item>EDMUNDO</item>
+        <item>EDUARDO</item>
+        <item>EFRAÍN</item>
+        <item>EFRÉN</item>
+        <item>ELENA</item>
+        <item>ELEONOR</item>
+        <item>ELÍAS</item>
+        <item>ELISA</item>
+        <item>ELISABETH</item>
+        <item>ELOISA</item>
+        <item>ELOY</item>
+        <item>ELSA</item>
+        <item>ELVIRA</item>
+        <item>EMILIA</item>
+        <item>EMILIO</item>
+        <item>EMA</item>
+        <item>EMANUEL</item>
+        <item>EMILIO</item>
+        <item>ENCARNACIÓN</item>
+        <item>ENGRACIA</item>
+        <item>ENRIQUE</item>
+        <item>ERASMO</item>
+        <item>ERICO</item>
+        <item>ERIC</item>
+        <item>ERICA</item>
+        <item>ERNESTO</item>
+        <item>ESMERALDA</item>
+        <item>ESPERANZA</item>
+        <item>ESTEBAN</item>
+        <item>ESTEFANÍA</item>
+        <item>ESTELA</item>
+        <item>ESTER</item>
+        <item>ETEL</item>
+        <item>EUCLIDES</item>
+        <item>EUDOSIA</item>
+        <item>EUDOXIO</item>
+        <item>EUFEMIO</item>
+        <item>EUFEMIA</item>
+        <item>EUFRASIO</item>
+        <item>EUFRASIA</item>
+        <item>EUGENIO</item>
+        <item>EUGENIA</item>
+        <item>EULALIO</item>
+        <item>EULALIA</item>
+        <item>EUSEBIO</item>
+        <item>EUSTAQUIO</item>
+        <item>EVA</item>
+        <item>EVANGELINA</item>
+        <item>EVARISTO</item>
+        <item>EZEQUIEL</item>
+
+
+    </string-array>
+
 </resources>    

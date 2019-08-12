@@ -37,7 +37,7 @@ public class splash extends AppCompatActivity {
                   e.printStackTrace();
               }
               finally {
-                  startActivity(new Intent(splash.this, leDoor.class));
+                  startActivity(new Intent(splash.this, ingreso .class));
                   finish();
               }
           }

@@ -15,35 +15,12 @@
         android:contentDescription="@string/app_name" />
 
 
-    <EditText
-        android:layout_marginTop="40dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="30dp"
-        android:layout_marginRight="30dp"
-        android:id="@+id/etIng_correo"
-        android:hint="@string/correo"
-        android:textSize="40sp"
-        android:inputType="textEmailAddress"
-        android:autofillHints="" tools:targetApi="o"/>
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="30dp"
-        android:layout_marginRight="30dp"
-        android:id="@+id/etIng_contrasenia"
-        android:hint="@string/contrasenia"
-        android:textSize="40sp"
-        android:inputType="textPassword"
-        android:autofillHints="" tools:targetApi="o"/>
+   <com.google.android.gms.common.SignInButton
+       android:id="@+id/loginBtn"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="30dp">
 
-    <Button
-        android:layout_marginTop="40dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/ingresarBtn"
-        android:text="@string/listo"
-        android:textSize="30sp"
-        android:background="@null"/>
+   </com.google.android.gms.common.SignInButton>
 
 </LinearLayout>

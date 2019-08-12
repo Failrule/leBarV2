@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "239794674769",
+    "firebase_url": "https://lebar-62984.firebaseio.com",
+    "project_id": "lebar-62984",
+    "storage_bucket": "lebar-62984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239794674769:android:2755915260a258ae",
+        "android_client_info": {
+          "package_name": "co.lebar.lebarv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239794674769-vqt55g52ovrkfo4t760l1r1lgkths1sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.lebar.lebarv2",
+            "certificate_hash": "3c9a2aefb5a4ec55fdb1fe9812ad92e0040b5035"
+          }
+        },
+        {
+          "client_id": "239794674769-50j08aj0lf3ri42ih6k81u2goe27fjqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD55mRdpuQc4pkuH8iSIQntXMUt0UTlq0A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239794674769-50j08aj0lf3ri42ih6k81u2goe27fjqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
